@@ -1,1 +1,1 @@
-# sem1-pp-extra-ptak-ana
+# Zadania zaawansowane na przepis z PP u Ptaka
